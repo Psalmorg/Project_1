@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Mobile View](./Screenshot (6).png)
+[Mobile View](https://github.com/Psalmorg/Project_1/blob/main/Screenshot%20(6).png)
 
 
 
